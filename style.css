@@ -1,9 +1,14 @@
 body {
     color:white;
     background: black;
+    font-family: "Bungee Tint", sans-serif;
     }
 
 header{
     border-bottom: solid 2px red;
     font-size: 25px
+}
+
+.chamada-texto {
+    margin-right: 25px;
 }
